@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header ul{
+    background-color: crimson;
+   display: flex;
+   justify-content: right;
+   list-style: none;
+}
+.navbar{
+    padding: 20px;
+    padding-right: 20px;
+}
